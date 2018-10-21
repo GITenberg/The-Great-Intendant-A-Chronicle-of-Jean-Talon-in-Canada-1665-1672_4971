@@ -1,5 +1,5 @@
 _repo: The-Great-Intendant-A-Chronicle-of-Jean-Talon-in-Canada-1665-1672_4971
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editors:
@@ -44,5 +44,6 @@ subjects:
 - !lcsh 'Talon, Jean, comte d''Orsainville, 1625?-1694'
 - !lcsh 'Intendants -- Canada -- Biography'
 - !lcc 'F1001'
+- GITenberg
 title: 'The Great Intendant : A Chronicle of Jean Talon in Canada, 1665-1672'
 url: http://www.gutenberg.org/ebooks/4971
